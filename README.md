@@ -12,6 +12,7 @@ Reports, diagrams, and other materials for the BCON Arcade project.
 - System Architecture Diagram (subsystem interaction level)
 - System Architecture Diagram (component level)
 - Use Case Diagram
+- Test Plan Diagram
 
 ### Documents
 
