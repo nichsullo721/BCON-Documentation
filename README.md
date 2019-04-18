@@ -9,7 +9,8 @@ Reports, diagrams, and other materials for the BCON Arcade project.
 - Class Diagram
 - Sequence Diagram
 - State Diagrams
-- System Architecture Diagram
+- System Architecture Diagram (subsystem interaction level)
+- System Architecture Diagram (component level)
 - Use Case Diagram
 
 ### Documents
